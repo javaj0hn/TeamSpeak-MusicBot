@@ -38,3 +38,7 @@ chmod u+x TeamSpeak3-Client-linux_amd64-3.0.13.run
 echo "Accept the conditions and complete installation"
 ./TeamSpeak3-Client-linux_amd64-3.0.13.run
 echo ""
+echo "VNC into your server and run the teamspeak client."
+echo "Configure mopidy to run using the server IP and to use your Spotify account. For more information see https://github.com/woutervanwijk/Mopidy-MusicBox-Webclient"
+echo "If you hae any questions feel free to ask me @ https://github.com/javaj0hn/"
+echo ""
